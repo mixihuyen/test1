@@ -1,0 +1,9 @@
+<p id = "dbconnected"> </p>
+<p>Phát triển bởi ....</p>
+
+<script> 
+    if (<%=dbConnected%>)
+        document.getElementById("dbconnected").innerHTML = "Cơ sở dữ liệu đã được kết nối vào MongoDB System...OK";
+    else
+        document.getElementById("dbconnected").innerHTML = "Chưa kết nối cơ sở dữ liệu!!!!!!!";
+</script>

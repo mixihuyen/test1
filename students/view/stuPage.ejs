@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <%filename = dirname + '/students/view/stdhead.ejs'%>
+    <%- include (filename)%> 
+    <%filename = dirname + '/students/view/dbconnect.ejs'%>
+    <%- include (filename,{dbConnected: dbConnected})%>
+</body>
+</html>

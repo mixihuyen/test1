@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "64798a9a07b3ca78f9e59981"
+  },
+  "name": "Nguyễn Bính",
+  "DayOfBirth": 15,
+  "MonthofBirth": 9,
+  "YearofBirth": 1978,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647997f3301f0655df57ca3f"
+  },
+  "name": "Nguyen Ngoc",
+  "DayOfBirth": 15,
+  "MonthofBirth": 5,
+  "YearofBirth": 1990,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647998ba301f0655df57ca41"
+  },
+  "name": "Le Tat Chuong",
+  "DayOfBirth": 20,
+  "MonthofBirth": 8,
+  "YearofBirth": 2002,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647998d3301f0655df57ca43"
+  },
+  "name": "Tran Trinh",
+  "DayOfBirth": 20,
+  "MonthofBirth": 9,
+  "YearofBirth": 2004,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6482f73cedf1b3389a5fe88f"
+  },
+  "name": "Takis",
+  "DayOfBirth": 17,
+  "MonthofBirth": 10,
+  "YearofBirth": 1973,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6485df58d6466426b19f3f2c"
+  },
+  "name": "Trần Thanh Trúc ",
+  "DayOfBirth": 11,
+  "MonthofBirth": 10,
+  "YearofBirth": 1982,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6485df9c8445eae948929fa0"
+  },
+  "name": "Trần Thanh Trúc",
+  "DayOfBirth": 11,
+  "MonthofBirth": 10,
+  "YearofBirth": 1982,
+  "__v": 0
+}]
